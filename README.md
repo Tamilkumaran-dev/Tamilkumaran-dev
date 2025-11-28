@@ -20,24 +20,63 @@ I’m a passionate **Full Stack Developer** focused on building secure, scalable
 
 ---
 
-## 🔥 Featured Project  
+## 🚀 Featured Projects
 
-### 🛒 EShop – Full Stack E-Commerce Platform  
-A complete e-commerce web application for electronic product shopping with secure authentication and admin management.  
+---
 
-**Key Features:**  
-- Role-based authentication (Admin & User)  
-- Secure login using JWT  
-- Product, user & order management (CRUD)  
-- Delivery progress tracking  
+### 🎬 Movie Ticket Booking System
+A full-stack movie ticket booking platform where **theatre owners manage shows** and **customers browse & book seats**. Includes secure role-based access and automated email notifications.
+
+**Key Features:**
+- Role-based authentication (Theatre Owner & User)
+- End-to-end seat booking flow
+- Automated booking confirmation & show timing emails via SendGrid
+- Secure authentication & authorization
 
 **Tech Stack:**  
-React.js, Java, Spring Boot, MongoDB, JWT  
+React.js, Tailwind CSS, Java, Spring Boot, MySQL, SendGrid  
+
+🔗 **Frontend:** [GitHub](https://github.com/Tamilkumaran-dev/Movie-Ticket-Booking-System-Application-Client-Side)  
+🔗 **Backend:** [GitHub](https://github.com/Tamilkumaran-dev/Movie-Ticket-Booking-System-Application-API)  
+
+---
+
+### 📘 LearnHub — Online Learning Platform
+A text-based online learning platform (inspired by W3Schools) with **multi-role access** for Managers, Instructors, and Learners. Supports course creation, management, enrollment, and progress tracking.
+
+**Key Features:**
+- Multi-role access control (Manager, Instructor, Learner)
+- Course creation & management
+- Learner enrollment & progress tracking
+- Clean, user-focused content experience
+
+**Tech Stack:**  
+React.js, Tailwind CSS, Java, Spring Boot, MySQL  
+
+🔗 **Frontend:** [GitHub](https://github.com/Tamilkumaran-dev/Learning_Platform_API)  
+🔗 **Backend:** [GitHub](https://github.com/Tamilkumaran-dev/Learning_Platform_API)  
+
+---
+
+### 🛒 EShop — Full Stack E-Commerce Platform
+A secure and scalable e-commerce platform for purchasing electronic products with **real-time order tracking** and **admin product management**.
+
+**Key Features:**
+- Multi-role access (Admin & User)
+- Secure authentication using JWT
+- Product, user & order management (Full CRUD)
+- Real-time delivery progress tracking
+
+**Tech Stack:**  
+React.js, JavaScript, Java, Spring Boot, MongoDB, JWT  
 
 🔗 **Frontend:** [GitHub](https://github.com/Tamilkumaran-dev/E-commerce-application-frontend)  
 🔗 **Backend:** [GitHub](https://github.com/Tamilkumaran-dev/E-commerce-web-application)  
 
-➡️ More projects available on my **[Portfolio](https://tamilkumaran-dev-folio.lovable.app/)**  
+---
+
+➡️ View all projects on my **[Portfolio](https://tamilkumaran-dev-folio.lovable.app/)**  
+
 
 ---
 
